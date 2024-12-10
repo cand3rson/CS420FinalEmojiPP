@@ -1,0 +1,24 @@
+✨ main()
+   🟦 numbers = [10, 20, 30, 40, 50]
+
+
+   🖨 "Array elements using while loop:"
+   🔢 i = 0
+   🔄 i < 5
+       🖨 numbers[i]
+       i = i ➕ 1
+   end🔄
+
+
+   🖨 "Sum of array using while loop:"
+   🔢 sum = 0
+   🔢 i = 0
+   🔄 i < 5
+       sum = sum ➕ numbers[i]
+       i = i ➕ 1
+   end🔄
+   🖨 sum
+end✨
+
+
+main()
