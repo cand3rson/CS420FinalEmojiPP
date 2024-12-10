@@ -1,0 +1,13 @@
+✨ main()
+    🖨 "Starting If Statement Example"
+
+    🔢 number = 25
+
+    🔍 (number > 20)
+        🖨 "The number is greater than 20."
+    end🔍
+
+    🖨 "If Statement Example Finished"
+end✨
+
+main()
